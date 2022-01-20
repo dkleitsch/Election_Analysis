@@ -8,7 +8,7 @@ Using Python and Visual Studio Code, an election audit was conducted for the Col
   - Denver County: 306,055 (82.8%)
   - Arapahoe County: 24,801 (6.7%)
  
-![County Votes](
+![County Votes](https://github.com/dkleitsch/Election_Analysis/blob/main/Resources/County%20Votes.png)
 - **Laregest County Turnout**: Denver 
 - **Votes Broken Down By Candidate and Percent of Total Votes**
   - Charles Casper Stockham: 85,213 (23.0%)
